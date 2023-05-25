@@ -29,6 +29,16 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaHegde02&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaHegde02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-hegde-4aba79201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-hegde-4aba79201/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/learn/dashboard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/learn/dashboard" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/_aditya_hegde_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/_aditya_hegde_/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/aditya_hegde/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/aditya_hegde/practice" height="30" width="40" /></a>
+<a href="https://discord.gg/Adi Hegde#1020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Adi Hegde#1020" height="30" width="40" /></a>
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=AdityaHegde02&icon=0&color=0)](https://visitcount.itsvg.in)
 
