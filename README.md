@@ -1,5 +1,3 @@
-# Hi there 👋
-
 <!--
 **AdityaHegde02/AdityaHegde02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,7 +38,12 @@ Here are some ideas to get you started:
 </div>
 
 # 💫 About Me:
-👋 Hey! I'm Aditya Hegde, Final Year IT student from NITK. Welcome to my GitHub Account!!<br>👀 I'm interested in various topics related to coding, software engineering, and web development.<br>🌱 Currently, I'm exploring the exciting world of Machine Learning, AI and working on projects related to visual intelligence applications.<br>⚡ In my free time, I solve problems on leetcode and GFG.<br>💞️ Open to collaborate on exciting projects that align with my skills and interests. Feel free to reach out to me.<br>📫 You can contact me through my email address or connect with me on LinkedIn. Let's work together to build amazing things!!
+👋 Hey! I'm Aditya Hegde, Final Year IT student from NITK. Welcome to my GitHub Account!!<br>
+👀 I'm interested in various topics related to coding, software engineering, and web development.<br>
+🌱 Currently, I'm exploring the exciting world of Machine Learning, AI and working on projects related to visual intelligence applications.<br>
+⚡ In my free time, I solve problems on leetcode and GFG.<br>
+💞️ Open to collaborate on exciting projects that align with my skills and interests. Feel free to reach out to me.<br>
+📫 You can contact me through my email address or connect with me on LinkedIn. Let's work together to build amazing things!!
 
 
 # 🌐 Socials:
@@ -56,14 +59,14 @@ Here are some ideas to get you started:
 
 # 💻 Coding Profiles:
 <p align="left">
-<a href="https://www.leetcode.com/_aditya_hegde_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_aditya_hegde_" height="30" width="40" /></a>&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/aditya_hegde/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/aditya_hegde/practice" height="30" width="40" /></a>&nbsp;
-<a href="https://linkedin.com/in/aditya-hegde-4aba79201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-hegde-4aba79201/" height="30" width="40" /></a>&nbsp;
-<a href="https://www.codechef.com/users/aditya_hegde2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditya_hegde2" height="30" width="40" /></a>&nbsp;
-<a href="https://www.hackerrank.com/adityahegde9102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityahegde9102" height="30" width="40" /></a>&nbsp;
-<a href="https://codeforces.com/profile/aditya_hegde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aditya_hegde" height="30" width="40" /></a>&nbsp;
-<a href="https://www.hackerearth.com/@adityahegde.201it105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@adityahegde.201it105" height="30" width="40" /></a>&nbsp;
-<a href="https://discord.gg/Adi Hegde#1020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Adi Hegde#1020" height="30" width="40" /></a>&nbsp;
+<a href="https://www.leetcode.com/_aditya_hegde_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_aditya_hegde_" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/aditya_hegde/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/aditya_hegde/practice" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/aditya-hegde-4aba79201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-hegde-4aba79201/" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/aditya_hegde2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditya_hegde2" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/adityahegde9102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityahegde9102" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/aditya_hegde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aditya_hegde" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.hackerearth.com/@adityahegde.201it105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@adityahegde.201it105" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://discord.gg/Adi Hegde#1020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Adi Hegde#1020" height="30" width="40" /></a>&nbsp;&nbsp;
 </p>
 
 ---
