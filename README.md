@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 👋 Hi, I'm Aditya Hegde, Final Year IT student from NITK. Welcome to my GitHub Account!!<br>👀 I'm interested in various topics related to coding, software engineering, and web development.<br>🌱 Currently, I'm exploring the exciting world of Machine Learning, AI and working on projects related to visual intelligence applications.<br>⚡ In my free time, I solve problems on leetcode and codeforces<br>💞️ Open to collaborate on exciting projects that align with my skills and interests. Feel free to reach out to me.<br>📫 You can contact me through my email address or connect with me on LinkedIn. Let's work together to build amazing things!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-hegde-4aba79201/) 
 
 # 💻 Tech Stack:
@@ -30,15 +30,18 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaHegde02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<h3 align="left">Connect with me:</h3>
+# 💻 Coding Profiles:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-hegde-4aba79201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-hegde-4aba79201/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/learn/dashboard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/learn/dashboard" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/_aditya_hegde_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/_aditya_hegde_/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/httpsaditya-hegde-4aba79201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="httpsaditya-hegde-4aba79201/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aditya_hegde2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditya_hegde2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/adityahegde9102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityahegde9102" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/aditya_hegde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aditya_hegde" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/_aditya_hegde_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_aditya_hegde_" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@adityahegde.201it105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@adityahegde.201it105" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/aditya_hegde/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/aditya_hegde/practice" height="30" width="40" /></a>
 <a href="https://discord.gg/Adi Hegde#1020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Adi Hegde#1020" height="30" width="40" /></a>
 </p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=AdityaHegde02&icon=0&color=0)](https://visitcount.itsvg.in)
 
