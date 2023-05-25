@@ -15,6 +15,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/aditya-hegde-4aba79201/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:adityahegde9102@gmail.com?subject=Mail from Github profile - <add your subject here> " >
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <!--
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    -->
+  </div>
+  <!--
+  <img src="https://komarev.com/ghpvc/?username=Shyam-NR&style=flat-square&color=blue" alt=""/>
+  -->
+  
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+
 # 💫 About Me:
 👋 Hey! I'm Aditya Hegde, Final Year IT student from NITK. Welcome to my GitHub Account!!<br>👀 I'm interested in various topics related to coding, software engineering, and web development.<br>🌱 Currently, I'm exploring the exciting world of Machine Learning, AI and working on projects related to visual intelligence applications.<br>⚡ In my free time, I solve problems on leetcode and GFG.<br>💞️ Open to collaborate on exciting projects that align with my skills and interests. Feel free to reach out to me.<br>📫 You can contact me through my email address or connect with me on LinkedIn. Let's work together to build amazing things!!
 
